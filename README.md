@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Claudiu-Petre
-- 👀 I’m interested in becoming fullstack developer and cyber security architect.
+- 👀 I’m interested in becoming fullstack developer.
 - 🌱 I’m currently learning web infrastructure and development.
-💞️ I’m looking to collaborate on programming projects.
+- 💞️ I’m looking to collaborate on programming projects.
 - 📫 How to reach me. 
 
 <!---
